@@ -1,0 +1,46 @@
+
+
+#inicio h2 {
+    color: #1a202c;
+
+}
+
+#inicio p {
+    color: #4a5568;
+
+}
+
+
+#servicios h3 {
+    color: #1a202c;
+}
+
+#servicios p {
+    color: #4a5568;
+
+}
+
+
+#servicios img {
+    border: 1px solid #e2e8f0;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+
+.aspect-w-16 {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+
+}
+
+.aspect-h-9 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
