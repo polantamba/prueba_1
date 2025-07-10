@@ -19,3 +19,4 @@ const promedioGeneral = sumaGeneral / estudiantes.length;
 
 
 console.log(`El promedio con funcion flecha es: ${promedioGeneral.toFixed(2)}`)
+//aqui
